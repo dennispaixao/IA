@@ -1,0 +1,3 @@
+Problemas de optimização
+Heurísticas(Soluções satisfatórias mas não a melhor)
+Indivíduo (Uma solução valida para o problema)
