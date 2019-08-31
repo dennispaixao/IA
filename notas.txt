@@ -1,3 +1,7 @@
 Problemas de optimização
 Heurísticas(Soluções satisfatórias mas não a melhor)
 Indivíduo (Uma solução valida para o problema)
+Cromossomo(array de gens Indivíduo)
+Gens(um elemento de um cromossomo)
+Cruzamento(cruzar características entre indivíduos)
+Mutação(trocar valor de um ou mais genes de um cromossomo)
