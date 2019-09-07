@@ -5,3 +5,22 @@ Cromossomo(array de gens Indivíduo)
 Gens(um elemento de um cromossomo)
 Cruzamento(cruzar características entre indivíduos)
 Mutação(trocar valor de um ou mais genes de um cromossomo)
+
+*------------*
+
+Supondo que se disera representar, soluções entre [5,10]
+com precisão de 4 casas decimais
+
+Quantos bits seriam suficientes
+
+Resposta:
+d = 10-5 = 5 // 5 é o intervalo
+5x10^4 // intervalo * 10^precisão de casas decimais
+5x10^4 = 50000 // para representar em binário
+
+2^15 = 32768 // 15 bits são insuficientes para representar o numero de soluções que é 50mil
+2^16 = 65536 // 16 bits são suficientes
+
+
+
+
